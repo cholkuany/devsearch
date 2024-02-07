@@ -1,0 +1,6 @@
+env/
+users/__pycache__
+devsearch/__pycache__
+./__pycache__
+api/__pycache__
+db.*
